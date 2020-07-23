@@ -1,4 +1,4 @@
-public class booleanMethod {
+public class BooleanMethod {
 
     public static void main(String[] args) {
 

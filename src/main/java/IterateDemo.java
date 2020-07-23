@@ -1,4 +1,4 @@
-public class demoIterate {
+public class IterateDemo {
 
     public static void main(String[] args) {
         String[] data = {"a", "b", "c", "d"};

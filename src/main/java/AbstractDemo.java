@@ -1,4 +1,4 @@
-public class DemoAbstract {
+public class AbstractDemo {
 
     public static void main(String[] args) {
         Number[] n = new Integer[2];
