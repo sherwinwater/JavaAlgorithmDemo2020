@@ -1,5 +1,3 @@
-import org.graalvm.compiler.api.replacements.Snippet;
-
 @ClassPreamble (
         author = "John Doe",
         date = "3/17/2002",
